@@ -12,7 +12,7 @@
 <br/>
 
 # 💫 About Me:
-👨‍🎓 I`m currently interning at Hawking Bros.
+👨‍🎓 I`m currently interning at [Hawking Bros.](https://hawkingbros.com/)
 
 
 ## 🌐 Socials:
