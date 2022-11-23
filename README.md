@@ -25,7 +25,7 @@
 # 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Klaurrr&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/> статистика гита -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Klaurrr&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Klaurrr&theme=radical&include_all_commits=true&count_private=true&layout=compact)
 
 
 
