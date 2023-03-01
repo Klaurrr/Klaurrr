@@ -12,7 +12,7 @@
 <br/>
 
 # 💫 About Me:
-👨‍🎓 I`m currently interning at [Hawking Bros.](https://hawkingbros.com/)
+👨‍🎓 Top 5 Best Trainees of [Hawking Bros.](https://hawkingbros.com/)
 
 
 ## 🌐 Socials:
