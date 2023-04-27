@@ -1,18 +1,23 @@
 
 <div align="center">
+  <h1>
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
   <img
-    src="https://rishavanand.github.io/static/images/greetings.gif"
+    src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"
     align="center"
     style="width: 100%"
   />
 </div>
 
 ###
-<div align="center">I'm frontend developer 👨‍💻 student programmer 🚀</div>
-<br/>
 
 # 💫 About Me:
-👨‍🎓 Top 5 Best Trainees of [Hawking Bros.](https://hawkingbros.com/)
+👨‍💻 Frontend Developer <br/>
+👨‍🎓 Top 5 Best Trainees of [Hawking Bros.](https://hawkingbros.com/) <br/>
+🚀 Student Programmer
+
 
 
 ## 🌐 Socials:
