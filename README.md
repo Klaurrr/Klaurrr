@@ -14,7 +14,7 @@
 ###
 
 # 💫 About Me:
-👨‍💻 Frontend Developer <br/>
+👨‍💻 Frontend Developer from Russia<br/>
 👨‍🎓 Top 5 Best Trainees of [Hawking Bros.](https://hawkingbros.com/) <br/>
 🚀 Student Programmer
 
