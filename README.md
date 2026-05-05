@@ -14,8 +14,8 @@
 ###
 
 # 💫 About Me:
-👨‍💻 Frontend Developer from Russia<br/>
-👨‍🎓 Deputy Head of Front-End Development at Uspect <br/>
+💻 Frontend Developer from Russia<br/>
+👨‍💻 Deputy Head of Front-End Development at Uspect <br/>
 
 
 
