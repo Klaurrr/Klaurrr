@@ -15,7 +15,7 @@
 
 # 💫 About Me:
 💻 FullStack Developer from Russia<br/>
-👨‍💻 ex Deputy Head of Front-End Development at Uspect <br/>
+👨‍💻 Deputy Head of Front-End Development at Uspect <br/>
 
 
 
