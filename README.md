@@ -19,10 +19,7 @@
 
 
 
-## 🌐 Socials:
-[![VK](https://img.shields.io/badge/vkontakte-29293e?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/klaurrr) 
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-29293e?style=for-the-badge&logo=telegram)](https://t.me/klaurrr)
-[![LINKEDIN](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/egor-usachev-46109123b/)
+
 
 
 
